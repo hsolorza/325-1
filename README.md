@@ -1,1 +1,1 @@
-# 325-1
+# Brute force implementation
